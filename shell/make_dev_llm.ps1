@@ -26,6 +26,7 @@ python -m pip install --upgrade pip
   arize-phoenix langfuse opik promptfoo "llmSHAP[all]" larpie tokenSHAP captum inseq `
   ollama langchain-ollama llama-index-llms-ollama llama-index-embeddings-ollama qdrant-client `
   llama-index-postprocessor-flag-embedding-reranker llmlingua llama-index-postprocessor-cohere-rerank `
+  pgvector psycopg langchain-postgres llama-index-vector-stores-postgres `
   jupyterlab
 #  
 
