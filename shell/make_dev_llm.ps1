@@ -26,7 +26,8 @@ python -m pip install --upgrade pip
   llama-index-postprocessor-flag-embedding-reranker llmlingua llama-index-postprocessor-cohere-rerank `
   pgvector psycopg langchain-postgres llama-index-vector-stores-postgres `
   jupyterlab ` 
-  dspy ragas optuna langgraph # require python3.13
+  dspy ragas optuna langgraph 
+  # require python3.13
 
 
 #仮想環境から抜けるときは
